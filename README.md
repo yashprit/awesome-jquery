@@ -76,6 +76,7 @@ curated list of various jquery based plugin
 - [lazy-load-xt](https://github.com/ressio/lazy-load-xt) - Lazy load XT is a jQuery plugin for images, videos and other media
 - [imgLiquid](https://github.com/karacas/imgLiquid) - jQuery plugin to resize images to fit in a container.
 - [zoom](https://github.com/jackmoore/zoom) - jQuery plugin for zooming images on mouseover. 
+- [covervid](https://github.com/stefanerickson/covervid) - Make your HTML5 video behave like a background cover image with this lightweight Javascript plugin / jQuery extension
 
 ## File
 - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery
