@@ -8,6 +8,7 @@ curated list of various jquery based plugin
 - [Folder Structure](#folder-structure)
 - [Image](#image)
 - [File](#file)
+- [Modal](#modal)
 
 ### Data Table
 - [DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery http://www.datatables.net/
@@ -81,6 +82,9 @@ curated list of various jquery based plugin
 
 ## File
 - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery
+
+## Modal
+- [featherlight](https://github.com/noelboss/featherlight) - Featherlight is a very lightweight jQuery lightbox plugin. 
 
 ## Contribute
 
