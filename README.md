@@ -83,6 +83,7 @@ curated list of various jquery based plugin
 
 ## File
 - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery
+- [jquery.fileapi](https://github.com/RubaXa/jquery.fileapi) - jQuery.FileAPI jquery plugin for FileAPI (multiupload, image upload, crop, resize and etc.)
 
 ## Modal
 - [featherlight](https://github.com/noelboss/featherlight) - Featherlight is a very lightweight jQuery lightbox plugin. 
