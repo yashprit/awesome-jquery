@@ -9,6 +9,7 @@ curated list of various jquery based plugin
 
 ### Data Table
 - [DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery http://www.datatables.net/
+- [StreamTable.js](https://github.com/jiren/StreamTable.js) - StreamTable.js streams data for tables in the background, updates and renders them using templating frameworks like Mustache.js, HandleBars.js http://jiren.github.io/StreamTable.js/stream.html
 
 ## Contribute
 
