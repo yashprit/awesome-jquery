@@ -79,6 +79,7 @@ curated list of various jquery based plugin
 - [zoom](https://github.com/jackmoore/zoom) - jQuery plugin for zooming images on mouseover. 
 - [covervid](https://github.com/stefanerickson/covervid) - Make your HTML5 video behave like a background cover image with this lightweight Javascript plugin / jQuery extension
 - [jQuery-rwdImageMaps](https://github.com/stowball/jQuery-rwdImageMaps) - Responsive Image Maps jQuery Plugin
+- [Baseline.js](https://github.com/daneden/Baseline.js) - A simple jQuery plugin for restoring vertical baselines thrown off by odd image sizes
 
 ## File
 - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery
