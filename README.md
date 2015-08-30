@@ -5,12 +5,12 @@ curated list of various jquery based plugin
 ## Table of contents
 
 - [Data Table](#data-table)
-- []
 
 ### Data Table
 - [DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery http://www.datatables.net/
-- [StreamTable.js](https://github.com/jiren/StreamTable.js) - StreamTable.js streams data for tables in the background, updates and renders them using templating frameworks like Mustache.js, HandleBars.js http://jiren.github.io/StreamTable.js/stream.html
-- [jquery-jsontotable](https://github.com/jongha/jquery-jsontotable) - This plugin can convert JSON data type to table for html. JSON is used primarily to transmit data between a server and web application, as an alternative to XML. In these reasons todays many applications use json data format for data transferring. And you need json to table converter for html display. http://plugins.jquery.com/jsontotable/
+- [StreamTable.js](https://github.com/jiren/StreamTable.js) - StreamTable.js streams data for tables in the background, updates and renders them using templating frameworks like Mustache.js, HandleBars.js 
+- [jquery-jsontotable](https://github.com/jongha/jquery-jsontotable) - This plugin can convert JSON data type to table for html. JSON is used primarily to transmit data between a server and web application, as an alternative to XML. In these reasons todays many applications use json data format for data transferring. And you need json to table converter for html display. 
+- [FooTable](https://github.com/fooplugins/FooTable) - jQuery plugin to make HTML tables responsive
 
 ## Contribute
 
