@@ -12,6 +12,7 @@ curated list of various jquery based plugin
 - [jquery-jsontotable](https://github.com/jongha/jquery-jsontotable) - This plugin can convert JSON data type to table for html. JSON is used primarily to transmit data between a server and web application, as an alternative to XML. In these reasons todays many applications use json data format for data transferring. And you need json to table converter for html display. 
 - [FooTable](https://github.com/fooplugins/FooTable) - jQuery plugin to make HTML tables responsive
 - [Fixed-Header-Table](https://github.com/markmalek/Fixed-Header-Table) - jQuery plugin for tables with fixed headers 
+- [jquery.tableScroll](https://github.com/farinspace/jquery.tableScroll) - This jQuery plugin converts a properly formatted table, having thead and tbody elements (tfoot optional), into a scrollable table.
 
 ## Contribute
 
