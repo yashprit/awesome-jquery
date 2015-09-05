@@ -13,6 +13,8 @@ curated list of various jquery based plugin
 - [FooTable](https://github.com/fooplugins/FooTable) - jQuery plugin to make HTML tables responsive
 - [Fixed-Header-Table](https://github.com/markmalek/Fixed-Header-Table) - jQuery plugin for tables with fixed headers 
 - [jquery.tableScroll](https://github.com/farinspace/jquery.tableScroll) - This jQuery plugin converts a properly formatted table, having thead and tbody elements (tfoot optional), into a scrollable table.
+- [TableDnD](https://github.com/isocra/TableDnD) - jQuery plug-in to drag and drop rows in HTML tables
+- []
 
 ## Contribute
 
