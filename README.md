@@ -18,6 +18,7 @@ curated list of various jquery based plugin
 - [StickyTableHeaders](https://github.com/jmosbech/StickyTableHeaders) - A jQuery plugin that makes large tables more usable by having the table header stick to the top of the screen when scrolling.
 - [jquery-treetable](https://github.com/ludo/jquery-treetable) - jQuery plugin to show a tree structure in a table
 - [jquery-resizable-columns](https://github.com/dobtco/jquery-resizable-columns) - Resizable table columns for jQuery.
+- [jquery-tabledit](https://github.com/markcell/jquery-tabledit) - Inline editor for HTML tables compatible with Bootstrap. 
 
 ## Contribute
 
