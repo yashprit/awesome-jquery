@@ -19,6 +19,7 @@ curated list of various jquery based plugin
 - [jquery-treetable](https://github.com/ludo/jquery-treetable) - jQuery plugin to show a tree structure in a table
 - [jquery-resizable-columns](https://github.com/dobtco/jquery-resizable-columns) - Resizable table columns for jQuery.
 - [jquery-tabledit](https://github.com/markcell/jquery-tabledit) - Inline editor for HTML tables compatible with Bootstrap. 
+- [jquery-tablesort](https://github.com/kylefox/jquery-tablesort) - A tiny & dead-simple jQuery plugin for sortable tables.
 
 ## Contribute
 
