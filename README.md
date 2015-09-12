@@ -20,6 +20,7 @@ curated list of various jquery based plugin
 - [jquery-resizable-columns](https://github.com/dobtco/jquery-resizable-columns) - Resizable table columns for jQuery.
 - [jquery-tabledit](https://github.com/markcell/jquery-tabledit) - Inline editor for HTML tables compatible with Bootstrap. 
 - [jquery-tablesort](https://github.com/kylefox/jquery-tablesort) - A tiny & dead-simple jQuery plugin for sortable tables.
+- [Stupid-Table-Plugin](https://github.com/joequery/Stupid-Table-Plugin) - A stupidly small and simple jQuery table sorter plugin
 
 ## Contribute
 
