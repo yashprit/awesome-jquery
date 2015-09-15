@@ -23,6 +23,7 @@ curated list of various jquery based plugin
 - [Stupid-Table-Plugin](https://github.com/joequery/Stupid-Table-Plugin) - A stupidly small and simple jQuery table sorter plugin
 - [jquery.tocify.js](https://github.com/gfranko/jquery.tocify.js) - A jQuery Table of Contents plugin that can be themed with Twitter Bootstrap or jQueryUI.
 - [toc](https://github.com/jgallen23/toc) - jQuery Table of Contents Plugin
+- [jQuery.FilterTable](https://github.com/sunnywalker/jQuery.FilterTable) - Live searching/filtering for HTML tables in a jQuery plugin
 
 ## Contribute
 
