@@ -25,6 +25,7 @@ curated list of various jquery based plugin
 - [toc](https://github.com/jgallen23/toc) - jQuery Table of Contents Plugin
 - [jQuery.FilterTable](https://github.com/sunnywalker/jQuery.FilterTable) - Live searching/filtering for HTML tables in a jQuery plugin
 - [jQuery-Visualize](https://github.com/filamentgroup/jQuery-Visualize) - HTML5 canvas charts driven by HTML table elements
+- [jtable](https://github.com/hikalkan/jtable) - A JQuery plugin to create AJAX based CRUD tables.
 
 ## Contribute
 
