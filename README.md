@@ -28,6 +28,7 @@ curated list of various jquery based plugin
 - [jtable](https://github.com/hikalkan/jtable) - A JQuery plugin to create AJAX based CRUD tables.
 - [quicksearch](https://github.com/riklomas/quicksearch) - A jQuery plugin for searching through tables, lists, etc quickly
 - [stacktable.js](https://github.com/johnpolacek/stacktable.js) - jQuery plugin for stacking tables on small screens
+- [watable](https://github.com/wootapa/watable) - A jQuery table plugin with sorting, paging, filtering.
 
 ## Contribute
 
