@@ -5,6 +5,7 @@ curated list of various jquery based plugin
 ## Table of contents
 
 - [Data Table](#data-table)
+- [Folder Structure](#folder-structure)
 
 ### Data Table
 - [DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery http://www.datatables.net/
