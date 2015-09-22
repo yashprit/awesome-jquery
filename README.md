@@ -31,6 +31,9 @@ curated list of various jquery based plugin
 - [stacktable.js](https://github.com/johnpolacek/stacktable.js) - jQuery plugin for stacking tables on small screens
 - [watable](https://github.com/wootapa/watable) - A jQuery table plugin with sorting, paging, filtering.
 
+## Folder Structure
+- [fancytree](https://github.com/mar10/fancytree) - Tree plugin for jQuery with support for persistence, keyboard, checkboxes, tables (grid), drag'n'drop, and lazy loading.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
