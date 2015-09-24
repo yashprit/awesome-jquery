@@ -34,6 +34,7 @@ curated list of various jquery based plugin
 ## Folder Structure
 - [fancytree](https://github.com/mar10/fancytree) - Tree plugin for jQuery with support for persistence, keyboard, checkboxes, tables (grid), drag'n'drop, and lazy loading.
 - [jqTree](https://github.com/mbraak/jqTree) - Tree widget for jQuery
+- [jquery-treeview](https://github.com/jzaefferer/jquery-treeview) - A jQuery Tree plugin 
 
 ## Contribute
 
