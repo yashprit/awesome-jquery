@@ -37,6 +37,7 @@ curated list of various jquery based plugin
 - [jquery-treeview](https://github.com/jzaefferer/jquery-treeview) - A jQuery Tree plugin 
 - [query-treetable](https://github.com/ludo/jquery-treetable) - jQuery plugin to show a tree structure in a table
 - [jstree](https://github.com/vakata/jstree) - jquery tree plugin 
+- [jquery-treegrid](https://github.com/maxazan/jquery-treegrid) - TreeGrid plugin for jQuery
 
 ## Contribute
 
