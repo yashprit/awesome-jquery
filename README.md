@@ -40,6 +40,7 @@ curated list of various jquery based plugin
 - [jquery-treegrid](https://github.com/maxazan/jquery-treegrid) - TreeGrid plugin for jQuery
 - [jquery-tree](https://github.com/daredevel/jquery-tree) - jQuery Tree Widget 
 - [zTree_v3](https://github.com/zTree/zTree_v3) - jQuery Tree Plugin
+- [treema](https://github.com/codecombat/treema) - jQuery plugin that generates HTML interfaces to edit JSON data defined by json-schema.
 
 ## Contribute
 
