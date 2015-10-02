@@ -42,6 +42,8 @@ curated list of various jquery based plugin
 - [zTree_v3](https://github.com/zTree/zTree_v3) - jQuery Tree Plugin
 - [treema](https://github.com/codecombat/treema) - jQuery plugin that generates HTML interfaces to edit JSON data defined by json-schema.
 - [jquery-bonsai](https://github.com/aexmachina/jquery-bonsai) - Super lightweight jQuery tree plugin
+- [jquery.mb.menu](https://github.com/pupunzi/jquery.mb.menu) - A tree menu on jQuery framework 
+- [jOrgChart](https://github.com/wesnolte/jOrgChart) - A jQuery plugin to draw tree-like structures such as OrgCharts.
 
 ## Contribute
 
