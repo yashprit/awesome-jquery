@@ -6,6 +6,7 @@ curated list of various jquery based plugin
 
 - [Data Table](#data-table)
 - [Folder Structure](#folder-structure)
+- [Image](#image)
 
 ### Data Table
 - [DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery http://www.datatables.net/
@@ -44,6 +45,10 @@ curated list of various jquery based plugin
 - [jquery-bonsai](https://github.com/aexmachina/jquery-bonsai) - Super lightweight jQuery tree plugin
 - [jquery.mb.menu](https://github.com/pupunzi/jquery.mb.menu) - A tree menu on jQuery framework 
 - [jOrgChart](https://github.com/wesnolte/jOrgChart) - A jQuery plugin to draw tree-like structures such as OrgCharts.
+
+## Images
+- []()
+
 
 ## Contribute
 
