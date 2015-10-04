@@ -47,7 +47,7 @@ curated list of various jquery based plugin
 - [jOrgChart](https://github.com/wesnolte/jOrgChart) - A jQuery plugin to draw tree-like structures such as OrgCharts.
 
 ## Images
-- []()
+- [mgareaselect](https://github.com/odyniec/imgareaselect) - ImgAreaSelect is a jQuery plugin for selecting a rectangular area of an image. It allows web developers to easily implement image cropping functionality, as well as other user interface features
 
 
 ## Contribute
