@@ -49,6 +49,7 @@ curated list of various jquery based plugin
 ## Images
 - [mgareaselect](https://github.com/odyniec/imgareaselect) - ImgAreaSelect is a jQuery plugin for selecting a rectangular area of an image. It allows web developers to easily implement image cropping functionality, as well as other user interface features
 - [photoset-grid](https://github.com/stylehatch/photoset-grid) - A simple jQuery plugin to arrange images into a flexible grid, based on Tumblr's photoset feature.
+- [nanoGALLERY](https://github.com/Kris-B/nanoGALLERY) - image gallery simplified - jQuery plugin. Touch enabled, responsive, justified/cascading/grid layout and it supports pulling in Flickr, Picasa and Google+ photo albums among others.
 
 
 ## Contribute
