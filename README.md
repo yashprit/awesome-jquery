@@ -52,6 +52,7 @@ curated list of various jquery based plugin
 - [nanoGALLERY](https://github.com/Kris-B/nanoGALLERY) - image gallery simplified - jQuery plugin. Touch enabled, responsive, justified/cascading/grid layout and it supports pulling in Flickr, Picasa and Google+ photo albums among others.
 - [Glisse.js](https://github.com/Victa/Glisse.js) - Glisse.js is a simple, responsive and fully customizable jQuery photo viewer.
 - [jquery-spectragram](https://github.com/adrianengine/jquery-spectragram) - A jQuery plugin using the Instagram API to fetch and display user, popular or tags photo feeds inside a list or any container you define.
+- [GalleryView](https://github.com/jackwanders/GalleryView) - jQuery plugin for creating photo galleries
 
 
 ## Contribute
