@@ -54,6 +54,7 @@ curated list of various jquery based plugin
 - [jquery-spectragram](https://github.com/adrianengine/jquery-spectragram) - A jQuery plugin using the Instagram API to fetch and display user, popular or tags photo feeds inside a list or any container you define.
 - [GalleryView](https://github.com/jackwanders/GalleryView) - jQuery plugin for creating photo galleries
 - [BalancedGallery](https://github.com/repp/BalancedGallery) - A balanced photo gallery plugin for jQuery.
+- [jquery-gp-gallery](https://github.com/ionelmc/jquery-gp-gallery) - jQuery gallery plugin (ala google plus photo galeries)
 
 
 ## Contribute
