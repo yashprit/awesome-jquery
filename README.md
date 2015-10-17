@@ -55,6 +55,7 @@ curated list of various jquery based plugin
 - [GalleryView](https://github.com/jackwanders/GalleryView) - jQuery plugin for creating photo galleries
 - [BalancedGallery](https://github.com/repp/BalancedGallery) - A balanced photo gallery plugin for jQuery.
 - [jquery-gp-gallery](https://github.com/ionelmc/jquery-gp-gallery) - jQuery gallery plugin (ala google plus photo galeries)
+- [Jquery-Photo-Tag](https://github.com/kmendes/Jquery-Photo-Tag) - Jquery plugin for tagging people in photos
 
 
 ## Contribute
