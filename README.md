@@ -83,6 +83,7 @@ curated list of various jquery based plugin
 - [jQuery-Picture](https://github.com/Abban/jQuery-Picture) - jQuery plugin to handle responsive images.
 - [Parallax-ImageScroll](https://github.com/pederan/Parallax-ImageScroll) - JQuery and amd compatible plugin to create a parallax effect as seen at spotify.com
 - [imagefill.js](https://github.com/johnpolacek/imagefill.js) - The jQuery plugin for making images fill their containers (and be centered)
+- [threesixty-slider](https://github.com/creativeaura/threesixty-slider) - jQuery 360 image slider plugin 
 
 ## File
 - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery
