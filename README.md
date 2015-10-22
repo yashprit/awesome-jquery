@@ -57,7 +57,7 @@ curated list of various jquery based plugin
 - [jquery-gp-gallery](https://github.com/ionelmc/jquery-gp-gallery) - jQuery gallery plugin (ala google plus photo galeries)
 - [Jquery-Photo-Tag](https://github.com/kmendes/Jquery-Photo-Tag) - Jquery plugin for tagging people in photos
 - [instagram-lite](https://github.com/michael-lynch/instagram-lite) - A simple, lightweight jQuery plugin used to display a user's Instagram photos.
--
+- [jQuery-Facebook-Photo-Selector](https://github.com/cshold/jQuery-Facebook-Photo-Selector) - A JavaScript plugin to create a Facebook photo selector
 
 
 ## Contribute
