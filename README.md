@@ -7,6 +7,7 @@ curated list of various jquery based plugin
 - [Data Table](#data-table)
 - [Folder Structure](#folder-structure)
 - [Image](#image)
+- [File](#file)
 
 ### Data Table
 - [DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery http://www.datatables.net/
@@ -59,6 +60,8 @@ curated list of various jquery based plugin
 - [instagram-lite](https://github.com/michael-lynch/instagram-lite) - A simple, lightweight jQuery plugin used to display a user's Instagram photos.
 - [jQuery-Facebook-Photo-Selector](https://github.com/cshold/jQuery-Facebook-Photo-Selector) - A JavaScript plugin to create a Facebook photo selector
 
+## File
+- [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery
 
 ## Contribute
 
