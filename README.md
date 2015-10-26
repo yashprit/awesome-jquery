@@ -50,6 +50,7 @@ curated list of various jquery based plugin
 ## Images
 - [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) - A jQuery plugin for extracting the dominant color from images and applying the color to their parent.
 - [jquery_lazyload](https://github.com/tuupola/jquery_lazyload) - jQuery plugin for lazy loading images
+- [jquery-backstretch](https://github.com/srobbin/jquery-backstretch) - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. 
 - [mgareaselect](https://github.com/odyniec/imgareaselect) - ImgAreaSelect is a jQuery plugin for selecting a rectangular area of an image. It allows web developers to easily implement image cropping functionality, as well as other user interface features
 - [photoset-grid](https://github.com/stylehatch/photoset-grid) - A simple jQuery plugin to arrange images into a flexible grid, based on Tumblr's photoset feature.
 - [nanoGALLERY](https://github.com/Kris-B/nanoGALLERY) - image gallery simplified - jQuery plugin. Touch enabled, responsive, justified/cascading/grid layout and it supports pulling in Flickr, Picasa and Google+ photo albums among others.
