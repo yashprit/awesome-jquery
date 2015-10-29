@@ -64,6 +64,7 @@ curated list of various jquery based plugin
 - [instagram-lite](https://github.com/michael-lynch/instagram-lite) - A simple, lightweight jQuery plugin used to display a user's Instagram photos.
 - [jQuery-Facebook-Photo-Selector](https://github.com/cshold/jQuery-Facebook-Photo-Selector) - A JavaScript plugin to create a Facebook photo selector
 - [jquery-focuspoint](https://github.com/jonom/jquery-focuspoint) - jQuery plugin for 'responsive cropping'. Dynamically crop images to fill available space without cutting out the image's subject. Great for full-screen images.
+- [Jcrop](https://github.com/tapmodo/Jcrop) - Jcrop (official) - Image Cropping Plugin for jQuery 
 
 ## File
 - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery
