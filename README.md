@@ -66,6 +66,7 @@ curated list of various jquery based plugin
 - [jquery-focuspoint](https://github.com/jonom/jquery-focuspoint) - jQuery plugin for 'responsive cropping'. Dynamically crop images to fill available space without cutting out the image's subject. Great for full-screen images.
 - [Jcrop](https://github.com/tapmodo/Jcrop) - Jcrop (official) - Image Cropping Plugin for jQuery 
 - [zoom.js](https://github.com/fat/zoom.js) - Medium's Image Zoom for jQuery
+- [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
 
 ## File
 - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery
