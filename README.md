@@ -67,6 +67,8 @@ curated list of various jquery based plugin
 - [Jcrop](https://github.com/tapmodo/Jcrop) - Jcrop (official) - Image Cropping Plugin for jQuery 
 - [zoom.js](https://github.com/fat/zoom.js) - Medium's Image Zoom for jQuery
 - [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
+- [BigVideo.js](https://github.com/dfcb/BigVideo.js) - The jQuery Plugin for Big Background Video (and Images)
+
 
 ## File
 - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery
