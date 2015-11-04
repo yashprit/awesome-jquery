@@ -70,6 +70,8 @@ curated list of various jquery based plugin
 - [BigVideo.js](https://github.com/dfcb/BigVideo.js) - The jQuery Plugin for Big Background Video (and Images)
 - [Slides](https://github.com/nathansearles/Slides) - Slides is a crazy simple slideshow plugin for jQuery.
 - [slider](https://github.com/jssor/slider) - Bootstrap Javascript jQuery Carousel/Slider/Slideshow/Gallery/Banner Responsive Image
+- [jquery-collagePlus](https://github.com/ed-lea/jquery-collagePlus) - Create an image gallery like Google+ Albums
+
 
 ## File
 - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery
