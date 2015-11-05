@@ -71,7 +71,7 @@ curated list of various jquery based plugin
 - [Slides](https://github.com/nathansearles/Slides) - Slides is a crazy simple slideshow plugin for jQuery.
 - [slider](https://github.com/jssor/slider) - Bootstrap Javascript jQuery Carousel/Slider/Slideshow/Gallery/Banner Responsive Image
 - [jquery-collagePlus](https://github.com/ed-lea/jquery-collagePlus) - Create an image gallery like Google+ Albums
-
+- [Nivo-Slider](https://github.com/gilbitron/Nivo-Slider) - Nivo Slider - The Most Awesome jQuery Image Slider 
 
 ## File
 - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery
