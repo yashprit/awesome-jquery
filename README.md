@@ -86,6 +86,7 @@ curated list of various jquery based plugin
 - [threesixty-slider](https://github.com/creativeaura/threesixty-slider) - jQuery 360 image slider plugin 
 - [imgareaselect](https://github.com/odyniec/imgareaselect) - ImgAreaSelect is a jQuery plugin for selecting a rectangular area of an image.
 - [photoset-grid](https://github.com/stylehatch/photoset-grid) - A simple jQuery plugin to arrange images into a flexible grid, based on Tumblr's photoset feature.
+- [image-picker](https://github.com/rvera/image-picker) - Image Picker is a simple jQuery plugin that transforms a select element into a more user friendly graphical interface.
 
 ## File
 - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery
